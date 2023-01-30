@@ -41,19 +41,20 @@ print(norm)
 ## Output:
 ### 1-Norm of a Matrix
 <br>
-<br>![214569607-7c930c46-148a-46b0-90bc-60edda6c8ab1](https://user-images.githubusercontent.com/118344695/215437654-79db93c9-cbc9-4abb-8453-086f8d6b5583.png)
+<br>![1n](https://user-images.githubusercontent.com/118344695/215438201-f9388369-f080-4171-97a9-592154320c6e.png)
+
 
 <br>
 
 ### 2-Norm of a Matrix
 <br>
-<br>![214569689-5a0cefaa-5099-4542-b853-faf665cded63](https://user-images.githubusercontent.com/118344695/215437702-308e1ea3-2010-42e7-9b18-04b8807b8969.png)
+<br>![2n](https://user-images.githubusercontent.com/118344695/215438253-c38ca661-5988-4a34-b7ed-3f72983e5de0.png)
 
 <br>
 
 ### Infinity Norm of a Matrix
-<br>
-<br>![214569778-cba7c63e-c691-4a57-810b-fd2e4f742d34](https://user-images.githubusercontent.com/118344695/215437738-be10c7bc-6099-49ea-8675-dd40f76e2013.png)
+<br>![3n](https://user-images.githubusercontent.com/118344695/215438311-39f64b83-487a-419e-86bb-d14c03a4e0ce.png)
+
 <br>
 
 ## Result
